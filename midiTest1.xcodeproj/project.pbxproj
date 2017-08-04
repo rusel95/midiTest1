@@ -13,6 +13,7 @@
 		840BE6641F26583300E23891 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 840BE6631F26583300E23891 /* Assets.xcassets */; };
 		840BE6671F26583300E23891 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 840BE6651F26583300E23891 /* LaunchScreen.storyboard */; };
 		840BE66F1F26585E00E23891 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 840BE66E1F26585E00E23891 /* Media.xcassets */; };
+		843558691F2FC5FC00007735 /* Imagine Dragons - Battle Cry.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 843558681F2FC5FC00007735 /* Imagine Dragons - Battle Cry.mp3 */; };
 		844CA7761F28CD59001BF368 /* AudioKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 844CA7751F28CD59001BF368 /* AudioKit.framework */; };
 		844CA7771F28CD59001BF368 /* AudioKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 844CA7751F28CD59001BF368 /* AudioKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
@@ -40,6 +41,7 @@
 		840BE6661F26583300E23891 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		840BE6681F26583300E23891 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		840BE66E1F26585E00E23891 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		843558681F2FC5FC00007735 /* Imagine Dragons - Battle Cry.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Imagine Dragons - Battle Cry.mp3"; sourceTree = "<group>"; };
 		844CA7751F28CD59001BF368 /* AudioKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AudioKit.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -75,6 +77,7 @@
 		840BE65B1F26583300E23891 /* midiTest1 */ = {
 			isa = PBXGroup;
 			children = (
+				843558681F2FC5FC00007735 /* Imagine Dragons - Battle Cry.mp3 */,
 				840BE65C1F26583300E23891 /* AppDelegate.swift */,
 				840BE65E1F26583300E23891 /* ViewController.swift */,
 				840BE6601F26583300E23891 /* Main.storyboard */,
@@ -119,7 +122,7 @@
 				TargetAttributes = {
 					840BE6581F26583200E23891 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = FWHF624C4H;
+						DevelopmentTeam = XL2PB29T62;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -148,6 +151,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				840BE6671F26583300E23891 /* LaunchScreen.storyboard in Resources */,
+				843558691F2FC5FC00007735 /* Imagine Dragons - Battle Cry.mp3 in Resources */,
 				840BE6641F26583300E23891 /* Assets.xcassets in Resources */,
 				840BE66F1F26585E00E23891 /* Media.xcassets in Resources */,
 				840BE6621F26583300E23891 /* Main.storyboard in Resources */,
@@ -285,7 +289,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FWHF624C4H;
+				DEVELOPMENT_TEAM = XL2PB29T62;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -302,7 +306,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FWHF624C4H;
+				DEVELOPMENT_TEAM = XL2PB29T62;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
